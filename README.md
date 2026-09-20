@@ -1,2 +1,2 @@
-# Optimizaci-n-E-IA
+# Optimizacion-E-IA
 Optimización E Inteligencia Artificial
